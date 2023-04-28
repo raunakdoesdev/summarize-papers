@@ -1,0 +1,6 @@
+*.zip
+*.pdf
+papers/*
+output/*
+output
+papers
